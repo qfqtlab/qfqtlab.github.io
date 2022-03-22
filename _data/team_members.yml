@@ -1,5 +1,5 @@
 - name: Alok Kumar Pan
-  photo: #Milan1.jpg
+  photo: AKP.png
   info: Assistant professor
   email: akp@nitp.ac.in
   number_educ: 5
@@ -10,7 +10,7 @@
   education5: PhD Bose Institute, Kolkata, India - 2008 
 
 - name: Shyam Sundar Mahato
-  photo: #Amber.png
+  photo: dummy.png
   info: PhD Student, started 2018
   email: sh@email.com
   number_educ: 2
@@ -20,7 +20,7 @@
   education4:
 
 - name: Prabuddha Roy
-  photo: #tjeruk.jpg
+  photo: dummy.png
   info: PhD Student, started 2019
   email: email@email.com
   number_educ: 2
@@ -30,7 +30,7 @@
   education4:
 
 - name: Rahul Kumar
-  photo: #tjeruk.jpg
+  photo: dummy.png
   info: PhD Student, started 2019
   email: rahul@email.com
   number_educ: 2
@@ -40,7 +40,7 @@
   education4:
 
 - name: Sumit Mukherjee
-  photo: #tjeruk.jpg
+  photo: dummy.png
   info: PhD Student, started 2019
   email: email@email.com
   number_educ: 2
@@ -50,7 +50,7 @@
   education4:
 
 - name: Sneha Munshi
-  photo: #website_pic_willem.jpg
+  photo: dummy.png
   info: PhD Student, started 201x
   email: email@email.com
   number_educ: 2
@@ -60,7 +60,7 @@
   education4:
 
 - name: Ritesh Kumar Singh
-  photo: #Maialen.png
+  photo: dummy.png
   info: PhD Student, joined 2022 
   email: riteshcsm1@gmail.com 
   number_educ: 2

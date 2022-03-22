@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=65c_QkIAAAAJ), [OrchidID](https://orcid.org/0000-0001-8874-9363))
+(For a full list of publications, see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=65c_QkIAAAAJ), [OrchidID](https://orcid.org/0000-0001-8874-9363))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
