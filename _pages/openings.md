@@ -36,10 +36,9 @@ If you are a Master student at NIT Patna, looking for a Master project, contact 
 ### Bsc / Master students from elsewhere
 Sometimes, we take master students or summer interns if we get exceptional applicants.
 
-<!--
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/csaklmckls.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/phy_dept.png" width="95%">
 </figure>
 
--->
+
